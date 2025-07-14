@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## v0.1.0 (2025-07-14)
+
+- No changes
+
 ## v9.1.5 (2025-07-13)
 
 ### Fixes
